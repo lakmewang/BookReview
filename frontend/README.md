@@ -46,6 +46,7 @@ Create a .env file in the backend folder.
 Add the following lines to .env:
 
 PORT=5000
+
 MONGO_URI=mongodb+srv://bookreview:qwert12345@cluster0.cp6vc.mongodb.net/
 
 4. Start the backend server using nodemon for auto-reloading during development:
