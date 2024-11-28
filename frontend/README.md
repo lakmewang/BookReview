@@ -26,8 +26,8 @@ MongoDB running locally or using MongoDB Atlas for cloud database setup.
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/book-review-app.git
-cd book-review-app
+git clone https://github.com/lakmewang/BookReview.git
+cd BookReview
 
 ## Backend Setup
 
